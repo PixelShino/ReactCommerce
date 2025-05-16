@@ -1,0 +1,61 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Добавляем поддержку темной темы */
+.dark {
+  @apply bg-gray-900 text-white;
+}
+
+.dark .bg-white {
+  @apply bg-gray-800 text-white;
+}
+
+.dark .text-gray-800, .dark .text-gray-900 {
+  @apply text-gray-100;
+}
+
+.dark .text-gray-700 {
+  @apply text-gray-300;
+}
+
+.dark .border-gray-300 {
+  @apply border-gray-700;
+}
+
+/* Анимация для элементов */
+.animate-fade-in {
+  animation: fadeIn 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Плавные переходы между страницами */
+.page-transition {
+  transition: opacity 0.3s ease;
+}
+
+.page-enter {
+  opacity: 0;
+}
+
+.page-enter-active {
+  opacity: 1;
+}
+
+.page-exit {
+  opacity: 1;
+}
+
+.page-exit-active {
+  opacity: 0;
+}
+
+/* @layer components {
+  .links {
+    @apply text-2xl font-semibold text-blue-600 hover:text-red-400;
+  }
+} */
