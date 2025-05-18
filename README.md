@@ -1,6 +1,12 @@
 # E-commerce React Application
 
-[English](#english) | [Русский](#russian)
+
+
+
+<a name="russian"></a>
+
+
+<details><summary>English version</summary>
 
 <a name="english"></a>
 
@@ -84,9 +90,8 @@ This project is a modern e-commerce web application built with React. It demonst
 
 ---
 
-<a name="russian"></a>
 
-# React-приложение для электронной коммерции
+</details>
 
 ## Обзор
 
