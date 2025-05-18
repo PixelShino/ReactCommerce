@@ -97,13 +97,47 @@ This project is a modern e-commerce web application built with React. It demonst
 
 Этот проект представляет собой современное веб-приложение электронной коммерции, построенное на React. Он демонстрирует мои навыки как junior frontend-разработчика и показывает различные функции, обычно встречающиеся на платформах онлайн-покупок.
 
-## Использованные технологии
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context_API-0088CC?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![localStorage](https://img.shields.io/badge/localStorage-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+Светлая версия
+  ![Светлая версия](https://github.com/user-attachments/assets/c4c0a70d-9e78-495b-9651-7fdadffa8fef)
+
+<details><summary>Темная версия </summary>
+  
+ ![Image](https://github.com/user-attachments/assets/26cd5632-5231-46c2-80be-888cc8c0c52d)
+ 
+</details>
+<details><summary>Корзина </summary>
+  
+ ![Image](https://github.com/user-attachments/assets/cd467138-168b-424a-a26e-c53f9b658218)
+ 
+</details>
+<details><summary>Список желаемого </summary>
+  
+  ![Image](https://github.com/user-attachments/assets/cc3ab4a6-8bfb-4e04-8a67-d1282bc46951)
+  
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Чему я научился
 
@@ -175,8 +209,8 @@ This project is a modern e-commerce web application built with React. It demonst
 
 <div align="center">
   
-  ![GitHub last commit](https://img.shields.io/github/last-commit/PixelShino/e-commerce-react?style=flat-square)
-  ![GitHub repo size](https://img.shields.io/github/repo-size/PixelShino/e-commerce-react?style=flat-square)
+  ![GitHub last commit](https://img.shields.io/github/last-commit/PixelShino/ReactCommerce?style=flat-square)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/PixelShino/ReactCommerce?style=flat-square)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
   
 </div>
